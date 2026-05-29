@@ -2,7 +2,7 @@
 
 A simple and responsive landing page built using HTML and CSS. This project was created as part of a Web Development Internship Task to demonstrate the use of HTML structure, CSS styling, Flexbox, and Media Queries.
 
-## 📋 Objective
+## Objective
 
 Build a clean and responsive landing page containing:
 
@@ -11,7 +11,7 @@ Build a clean and responsive landing page containing:
 - Footer with social links
 - Responsive layout for different screen sizes
 
-## 🚀 Features
+## Features
 
 - Responsive Header Navigation
 - Modern Hero Section
@@ -21,24 +21,23 @@ Build a clean and responsive landing page containing:
 - Footer with Social Media Links
 - Mobile-Friendly Interface
 
-## 🛠️ Technologies Used
+## Technologies Used
 
 - HTML5
 - CSS3
 - Flexbox
 - Media Queries
 
-## 📂 Project Structure
+## Project Structure
 
 ```text
-project-folder/
 │
 ├── index.html
 ├── style.css
 └── README.md
 ```
 
-## 💻 How to Run
+## How to Run
 
 1. Download or clone the repository.
 2. Open the project folder in VS Code.
@@ -51,7 +50,7 @@ Use the Live Server extension:
 - Right-click on `index.html`
 - Select **Open with Live Server**
 
-## 📱 Responsive Design
+## Responsive Design
 
 The website is fully responsive and adapts to:
 
@@ -61,7 +60,7 @@ The website is fully responsive and adapts to:
 
 Media Queries are used to adjust the layout on smaller screens.
 
-## 📸 Screenshot
+## Screenshot
 
 Add your project screenshot here.
 
@@ -69,7 +68,7 @@ Add your project screenshot here.
 ![Project Screenshot](screenshot.png)
 ```
 
-## 🎯 Learning Outcomes
+## Learning Outcomes
 
 Through this project, I learned:
 
@@ -79,12 +78,12 @@ Through this project, I learned:
 - Responsive web design
 - Media Queries implementation
 
-## 👨‍💻 Author
+## Author
 
-Ajay Kumar
+Avinash Kumar
 
 Web Development Internship Task
 
-## 📄 License
+## License
 
 This project is created for educational and internship purposes.
